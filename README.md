@@ -1,5 +1,6 @@
 # Amazon_Price_Check
 You can add a product's url to monitor its pricing and ratings.
+Get Notified by an email...
 
 Open Personal.py first...
 
