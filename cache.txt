@@ -1,0 +1,137 @@
+{
+    "Time": [
+        1597832432.5479555,
+        "Wed Aug 19 15:50:32 2020"
+    ],
+    "Products": [
+        {
+            "time_added": "Wed Aug 19 15:33:51 2020",
+            "time_updated": "Wed Aug 19 15:50:34 2020",
+            "time_checked": "Wed Aug 19 15:50:34 2020",
+            "url": "https://www.amazon.in/Apple-MWP22HN-A-AirPods-Pro/dp/B07ZRXF7M8/ref=pd_rhf_gw_s_pd_crcd_0_1/259-0790228-7263300?_encoding=UTF8&pd_rd_i=B07ZRXF7M8&pd_rd_r=2253b510-408e-4e15-ad59-a70669424dba&pd_rd_w=yQOPu&pd_rd_wg=Ds4OO&pf_rd_p=decc33e5-9bac-4f5a-9e32-c8b613fff04e&pf_rd_r=QPNYPXBW0HYVPSSZTHGF&psc=1&refRID=QPNYPXBW0HYVPSSZTHGF",
+            "title": "Apple AirPods Pro",
+            "in_stock": true,
+            "price": [
+                "24,400.00",
+                null
+            ],
+            "rating": [
+                "4.2 out of 5",
+                "4,567"
+            ],
+            "flag_0": false,
+            "history": [
+                {
+                    "time": "Wed Aug 19 15:33:51 2020",
+                    "in_stock": true,
+                    "price": [
+                        "23,400.00",
+                        null
+                    ],
+                    "rating": [
+                        "4.2 out of 5",
+                        "4,567"
+                    ]
+                }
+            ]
+        },
+        {
+            "time_added": "Wed Aug 19 15:35:28 2020",
+            "time_updated": "Wed Aug 19 15:35:28 2020",
+            "time_checked": "Wed Aug 19 15:50:37 2020",
+            "url": "https://www.amazon.in/gp/product/B07T81554H/ref=s9_acss_bw_cg_INele1_1b1_w?pf_rd_m=A1K21FY43GMZF8&pf_rd_s=merchandised-search-2&pf_rd_r=ASMGBFY88GZPH299JVFX&pf_rd_t=101&pf_rd_p=61344d7d-e9e2-4f34-993e-b8308f5b009c&pf_rd_i=976419031",
+            "title": "Sony WF-1000XM3 Truly Wireless Bluetooth in-Ear Headphones with Battery Life 32 Hours, Alexa Voice Control and mic for Phone Calls \u2013 True Wireless Industry Leading Active Noise Cancellation (Black)",
+            "in_stock": true,
+            "price": [
+                "19,990.00",
+                "INR"
+            ],
+            "rating": [
+                "4 out of 5",
+                "2,720"
+            ],
+            "flag_0": false,
+            "history": []
+        },
+        {
+            "time_added": "Wed Aug 19 15:35:31 2020",
+            "time_updated": "Wed Aug 19 15:35:31 2020",
+            "time_checked": "Wed Aug 19 15:50:40 2020",
+            "url": "https://www.amazon.in/All-new-Echo-Dot-3rd-Gen/dp/B07PFFMP9P/ref=sr_1_1?dchild=1&keywords=alexa&qid=1597472639&sr=8-1",
+            "title": "Echo Dot (3rd Gen) \u2013 New and improved smart speaker with Alexa (Black)",
+            "in_stock": true,
+            "price": [
+                "3,499.00",
+                null
+            ],
+            "rating": [
+                "4.3 out of 5",
+                "27,652"
+            ],
+            "flag_0": false,
+            "history": []
+        },
+        {
+            "time_added": "Wed Aug 19 15:35:33 2020",
+            "time_updated": "Wed Aug 19 15:35:33 2020",
+            "time_checked": "Wed Aug 19 15:50:42 2020",
+            "url": "https://www.amazon.in/dp/B07HGJJ58K/ref=pc_mcnc_merchandised-search-12_?pf_rd_s=merchandised-search-12&pf_rd_t=Gateway&pf_rd_i=mobile&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_r=6G8RS9HMBFKDS3G8XDY7&pf_rd_p=ba08629f-24c9-4adb-9f6b-0e543e0ca95a",
+            "title": "Samsung Galaxy M30 (Gradation Blue, 4GB RAM, Super AMOLED Display, 64GB Storage, 5000mAH Battery)",
+            "in_stock": false,
+            "price": [
+                null,
+                null
+            ],
+            "rating": [
+                "4.1 out of 5",
+                "79,072"
+            ],
+            "flag_0": false,
+            "history": []
+        },
+        {
+            "time_added": "Wed Aug 19 15:35:36 2020",
+            "time_updated": "Wed Aug 19 15:35:36 2020",
+            "time_checked": "Wed Aug 19 15:50:45 2020",
+            "url": "https://www.amazon.in/Fitbit-FB507BKBK-Smartwatch-Tracking-Included/dp/B07TWFVDWT/ref=pd_di_sccai_4/259-0790228-7263300?_encoding=UTF8&pd_rd_i=B07TWFVDWT&pd_rd_r=82f30d62-edde-4d39-9a71-bd1b903df77f&pd_rd_w=jYo0u&pd_rd_wg=vm98V&pf_rd_p=a1f3aa5a-f05d-4e2d-b84b-6ef88e21fb7e&pf_rd_r=VP8KJ2HHP57CBXK3N53J&psc=1&refRID=VP8KJ2HHP57CBXK3N53J",
+            "title": "Fitbit FB507BKBK Versa 2 Health & Fitness Smartwatch with Heart Rate, Music, Alexa Built-in, Sleep & Swim Tracking, Black/Carbon, One Size (S & L Bands Included) (Black/Carbon)",
+            "in_stock": true,
+            "price": [
+                "19,098.00",
+                "INR"
+            ],
+            "rating": [
+                "3.8 out of 5",
+                "19,341"
+            ],
+            "flag_0": false,
+            "history": []
+        },
+        {
+            "time_added": "Wed Aug 19 15:35:38 2020",
+            "time_updated": "Wed Aug 19 15:35:38 2020",
+            "time_checked": "Wed Aug 19 15:50:48 2020",
+            "url": "https://www.amazon.in/Fitbit-FB503CPBU-Ionic-Smartwatch-Orange/dp/B074VNDGND/ref=psdc_5605728031_t2_B07TWFVDWT",
+            "title": "Fitbit FB503CPBU Ionic Smartwatch (Slate Blue/Burnt Orange)",
+            "in_stock": true,
+            "price": [
+                "22,499.00",
+                "INR"
+            ],
+            "rating": [
+                "3.4 out of 5",
+                "5,461"
+            ],
+            "flag_0": false,
+            "history": []
+        }
+    ],
+    "P_urls": [
+        "https://www.amazon.in/Apple-MWP22HN-A-AirPods-Pro/dp/B07ZRXF7M8/ref=pd_rhf_gw_s_pd_crcd_0_1/259-0790228-7263300?_encoding=UTF8&pd_rd_i=B07ZRXF7M8&pd_rd_r=2253b510-408e-4e15-ad59-a70669424dba&pd_rd_w=yQOPu&pd_rd_wg=Ds4OO&pf_rd_p=decc33e5-9bac-4f5a-9e32-c8b613fff04e&pf_rd_r=QPNYPXBW0HYVPSSZTHGF&psc=1&refRID=QPNYPXBW0HYVPSSZTHGF",
+        "https://www.amazon.in/gp/product/B07T81554H/ref=s9_acss_bw_cg_INele1_1b1_w?pf_rd_m=A1K21FY43GMZF8&pf_rd_s=merchandised-search-2&pf_rd_r=ASMGBFY88GZPH299JVFX&pf_rd_t=101&pf_rd_p=61344d7d-e9e2-4f34-993e-b8308f5b009c&pf_rd_i=976419031",
+        "https://www.amazon.in/All-new-Echo-Dot-3rd-Gen/dp/B07PFFMP9P/ref=sr_1_1?dchild=1&keywords=alexa&qid=1597472639&sr=8-1",
+        "https://www.amazon.in/dp/B07HGJJ58K/ref=pc_mcnc_merchandised-search-12_?pf_rd_s=merchandised-search-12&pf_rd_t=Gateway&pf_rd_i=mobile&pf_rd_m=A1VBAL9TL5WCBF&pf_rd_r=6G8RS9HMBFKDS3G8XDY7&pf_rd_p=ba08629f-24c9-4adb-9f6b-0e543e0ca95a",
+        "https://www.amazon.in/Fitbit-FB507BKBK-Smartwatch-Tracking-Included/dp/B07TWFVDWT/ref=pd_di_sccai_4/259-0790228-7263300?_encoding=UTF8&pd_rd_i=B07TWFVDWT&pd_rd_r=82f30d62-edde-4d39-9a71-bd1b903df77f&pd_rd_w=jYo0u&pd_rd_wg=vm98V&pf_rd_p=a1f3aa5a-f05d-4e2d-b84b-6ef88e21fb7e&pf_rd_r=VP8KJ2HHP57CBXK3N53J&psc=1&refRID=VP8KJ2HHP57CBXK3N53J",
+        "https://www.amazon.in/Fitbit-FB503CPBU-Ionic-Smartwatch-Orange/dp/B074VNDGND/ref=psdc_5605728031_t2_B07TWFVDWT"
+    ]
+}
