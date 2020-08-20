@@ -13,7 +13,8 @@ check_data.py - checks if the data is upto date or not... sends mail... to the a
 
 run_add.py - run it to add product
 
-while_main.py - A While loop... always run it... Note: interval is decided on check_data.py it is set to 600 secs.
+while_main.py - A While loop... always run it... Note: interval is decided on check_data.py it is set to 600 secs...
+See the check_time() func...
 
 test.py just ignore it... I used it to test call_product.py...
 
